@@ -54,7 +54,7 @@ Make sure you have the React Native development environment set up:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-app.git
+git clone https://github.com/suman12-24/Ecommerce_App.git
 cd ecommerce-app
 ```
 
@@ -182,13 +182,6 @@ Only the `bag` slice is persisted; `products` data is always freshly fetched.
 
 ---
 
-## ⚠️ Known Limitations
-
-- Checkout flow is UI-only (button present, no implementation)
-- Some filter options (price range, rating, discount) are UI-only per spec
-- No product detail screen (not in spec)
-
----
 
 ## 📦 Building APK (Android Release)
 
